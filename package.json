@@ -1,0 +1,25 @@
+{
+  "name": "D-DHelper",
+  "version": "1.0.0",
+  "description": "it helps with dnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glooga/D-DHelper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glooga/D-DHelper/issues"
+  },
+  "homepage": "https://github.com/glooga/D-DHelper#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.6",
+    "random": "^2.1.1"
+  }
+}
